@@ -1,0 +1,5 @@
+{
+  "name": "Student Record Management",
+  "description": "A comprehensive application to manage student records, including personal details, academic performance, and attendance. It features graphical representations of marks and attendance for easy monitoring and analysis.",
+  "requestFramePermissions": []
+}
